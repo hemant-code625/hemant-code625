@@ -1,8 +1,9 @@
+![0f25e4668c1c7740b5ed41835339d67f](https://user-images.githubusercontent.com/111212867/189511700-32ce7414-0563-4ffd-a60f-2fce27d0770b.gif)
 
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A young guy with quite useful digital skills. Love meeting new people and exploring the world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-code625&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-code625" /> </p>
+![coding-freak](https://user-images.githubusercontent.com/111212867/189511702-f466120f-cccc-454e-953a-d466bb274b3d.gif)
 
 - 🌱 I’m currently learning **JAVA + Data Structures and Algorithm**
 
