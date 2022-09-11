@@ -3,17 +3,22 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A young guy with quite useful digital skills. Love meeting new people and exploring the world.</h3>
 
-![coding-freak](https://user-images.githubusercontent.com/111212867/189511702-f466120f-cccc-454e-953a-d466bb274b3d.gif)
+![coding-freak](https://user-images.githubusercontent.com/111212867/189512602-8c9a332f-89f2-4b60-b005-d0fd7595e5a1.gif)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-code625&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-code625" /> </p>
+
+- I’m currently **sleeping** 😴 or **working** on my laptop
 
 - 🌱 I’m currently learning **JAVA + Data Structures and Algorithm**
 
+- I’m looking to collaborate on **python projects**
+
 - 📫 How to reach me **anmolpawar877@gmail.com**
 
-- ⚡ Fun fact **Ahh! Numbers fascinates me but there is lot more beyond numbers. I'm Glad to see this...**
+- ⚡ Fun fact **I am the craziest person you have ever seen**
 
-![Mario_Gameplay (1)](https://user-images.githubusercontent.com/111212867/189511974-b9d1f138-f403-4e51-a27d-7b391f907138.gif)
-
+![crazy](https://user-images.githubusercontent.com/111212867/189512588-7139df39-47a0-42dc-87b2-3ae68f426c8e.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
