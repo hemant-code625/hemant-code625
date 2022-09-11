@@ -1,6 +1,6 @@
 [![MasterHead]("https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif")](https://hemant-code625.io)
 
-<h1 align="center">Hi 👋, I'm Hemant Singh Parmar</h1>
+<h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A young guy with quite useful digital skills. Love meeting new people and exploring the world.</h3>
 <img align="right" alt="Coding" width="400" src=("https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
