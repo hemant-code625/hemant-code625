@@ -5,13 +5,15 @@
 
 ![coding-freak](https://user-images.githubusercontent.com/111212867/189511702-f466120f-cccc-454e-953a-d466bb274b3d.gif)
 
+
 - 🌱 I’m currently learning **JAVA + Data Structures and Algorithm**
 
 - 📫 How to reach me **anmolpawar877@gmail.com**
 
 - ⚡ Fun fact **Ahh! Numbers fascinates me but there is lot more beyond numbers. I'm Glad to see this...**
 
-![Mario_Gameplay](https://user-images.githubusercontent.com/111212867/189511843-96a65531-35ff-4f13-8d1b-3cd83d5c5f9c.gif)
+![Mario_Gameplay (1)](https://user-images.githubusercontent.com/111212867/189511974-b9d1f138-f403-4e51-a27d-7b391f907138.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemant-code625&show_icons=true&locale=en" alt="hemant-code625" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-code625&" alt="hemant-code625" /></p>
-
-
