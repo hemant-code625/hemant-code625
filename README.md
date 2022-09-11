@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **anmolpawar877@gmail.com**
 
-- 📄 Know about my experiences [Beginner Coder...](Beginner Coder...)
-
 - ⚡ Fun fact **Ahh! Numbers fascinates me but there is lot more beyond numbers. I'm Glad to see this...**
 
 <h3 align="left">Connect with me:</h3>
