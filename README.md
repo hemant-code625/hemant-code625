@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **Ahh! Numbers fascinates me but there is lot more beyond numbers. I'm Glad to see this...**
 
+![Mario_Gameplay](https://user-images.githubusercontent.com/111212867/189511843-96a65531-35ff-4f13-8d1b-3cd83d5c5f9c.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@thisis_hemant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thisis_hemant" height="30" width="40" /></a>
