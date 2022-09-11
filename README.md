@@ -1,16 +1,14 @@
-[![MasterHead]("https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif")](https://hemant-code625.io)
 
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A young guy with quite useful digital skills. Love meeting new people and exploring the world.</h3>
-<img align="right" alt="Coding" width="400" src=("https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemant-code625" alt="hemant-code625" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@thisis_hemant" target="blank"><img src="https://img.shields.io/twitter/follow/@thisis_hemant?logo=twitter&style=for-the-badge" alt="@thisis_hemant" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-code625&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-code625" /> </p>
 
 - 🌱 I’m currently learning **JAVA + Data Structures and Algorithm**
 
 - 📫 How to reach me **anmolpawar877@gmail.com**
+
+- 📄 Know about my experiences [Beginner Coder...](Beginner Coder...)
 
 - ⚡ Fun fact **Ahh! Numbers fascinates me but there is lot more beyond numbers. I'm Glad to see this...**
 
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemant-code625&show_icons=true&locale=en" alt="hemant-code625" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant-code625&" alt="hemant-code625" /></p>
+
+
