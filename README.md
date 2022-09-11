@@ -10,13 +10,17 @@
 
 - I’m currently **sleeping** 😴 or **working** on my laptop
 
-- 🌱 I’m currently learning **JAVA + Data Structures and Algorithm**
-
 - I’m looking to collaborate on **python projects**
 
-- 📫 How to reach me **anmolpawar877@gmail.com**
+- I’m looking for help with wifi connection 🌐
 
-- ⚡ Fun fact **I am the craziest person you have ever seen**
+- Pronouns: He/Him 🧔
+
+- 🌱 Currently Learning: **JAVA + Data Structures and Algorithm**
+
+- 📫 How to reach me: **anmolpawar877@gmail.com**
+
+- ⚡ Fun fact: **I am the craziest person you might have ever seen**
 
 ![crazy](https://user-images.githubusercontent.com/111212867/189512588-7139df39-47a0-42dc-87b2-3ae68f426c8e.gif)
 
