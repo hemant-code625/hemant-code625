@@ -10,7 +10,7 @@
 
 - I’m currently **sleeping** 😴 or **working** on my laptop
 
-- I’m looking to collaborate on **python projects**
+- I’m looking to collaborate on **cool projects**
 
 - I’m looking for help with wifi connection 🌐
 
