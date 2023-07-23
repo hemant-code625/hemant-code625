@@ -1,7 +1,7 @@
 ![0f25e4668c1c7740b5ed41835339d67f](https://user-images.githubusercontent.com/111212867/189511700-32ce7414-0563-4ffd-a60f-2fce27d0770b.gif)
 
 <h1 align="center">Hi 👋, I'm Hemant</h1>
-<h3 align="center">A young guy with quite useful digital skills. Love meeting new people and exploring the world.</h3>
+<h3 align="center">A creative thinker with a zest for life.</h3>
 
 ![coding-freak](https://user-images.githubusercontent.com/111212867/189512602-8c9a332f-89f2-4b60-b005-d0fd7595e5a1.gif)
 
@@ -11,7 +11,7 @@
 - I’m currently **sleeping** 😴 or **working** on my laptop
 
 - I’m looking to collaborate on **We dev applications**
-- 
+ 
 - Pronouns: He/Him 🧔
 
 - 🌱 Currently Learning: Building Scalable Web-Apps
