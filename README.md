@@ -4,13 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-code625&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-code625" /> </p>
 
-- I’m currently **sleeping** 😴 or **working** on my laptop
-
-- I’m looking to collaborate on **We dev applications**
+  
+- 💞️ I’m looking to collaborate on **We dev applications**
  
-- Pronouns: He/Him 🧔
-
-- 🌱 Currently Learning: Building Scalable Web-Apps
+- 🌱 Currently Learning: To build Scalable Web-Apps
 
 - 📫 How to reach me: **hemantsinghparmar@mgmtech.org**
 
