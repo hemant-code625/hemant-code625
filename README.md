@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A creative thinker with a zest for life.</h3>
 
-![coding-freak](https://user-images.githubusercontent.com/111212867/189512602-8c9a332f-89f2-4b60-b005-d0fd7595e5a1.gif)
+// ![coding-freak](https://user-images.githubusercontent.com/111212867/189512602-8c9a332f-89f2-4b60-b005-d0fd7595e5a1.gif) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-code625&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-code625" /> </p>
