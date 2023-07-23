@@ -10,17 +10,15 @@
 
 - I’m currently **sleeping** 😴 or **working** on my laptop
 
-- I’m looking to collaborate on **cool projects**
-
-- I’m looking for help with wifi connection 🌐
-
+- I’m looking to collaborate on **We dev applications**
+- 
 - Pronouns: He/Him 🧔
 
-- 🌱 Currently Learning: **JAVA + Data Structures and Algorithm**
+- 🌱 Currently Learning: Building Scalable Web-Apps
 
-- 📫 How to reach me: **anmolpawar877@gmail.com**
+- 📫 How to reach me: **hemantsinghparmar@mgmtech.org**
 
-- ⚡ Fun fact: **I am the craziest person you might have ever seen**
+- ⚡ Fun fact: **I'm always up for trying new things.**
 
 ![crazy](https://user-images.githubusercontent.com/111212867/189512588-7139df39-47a0-42dc-87b2-3ae68f426c8e.gif)
 
