@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I'm always up for trying new things.**
 
-![crazy](https://user-images.githubusercontent.com/111212867/189512588-7139df39-47a0-42dc-87b2-3ae68f426c8e.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
