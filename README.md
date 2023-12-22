@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Hemant</h1>
+<h1 align="center">Hi 👋🏻, I'm Hemant</h1>
 <h3 align="center">A FULL STACK MERN Developer with a zest for life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant-code625&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-code625" /> </p>
 
   
-- 💞️ I’m looking to collaborate on **Web apps**
+- 💞️ Seeking fellow web app enthusiasts for exciting projects!
  
-- 🌱 Currently Learning: To build Scalable Web-Apps
+- 🌱 Currently Learning: Data Structures and Algorithms
 
 - 📫 How to reach me: **hemantsinghparmar@mgmtech.org**
 
